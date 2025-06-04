@@ -1,0 +1,15 @@
+title: ZALF at LPS 2025
+description: Overview of ZALF presentations, posters, and demos at the ESA Living Planet Symposium 2025 in Bonn.
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+author: Gohar Ghazaryan
+email: gohar.ghazaryan@zalf.de
+
+
+# Build settings
+plugins:
+  - jekyll-feed
