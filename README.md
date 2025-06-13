@@ -7,11 +7,14 @@ This page highlights presentations, posters, and demos contributed by ZALF resea
 
 | Name             | Title                                                                                                 | Session                                                                                          | Date & Time                        | Program Link |
 |------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------|--------------|
-| Ghazaryan et al  | Earth Observation based Digital Twin for Resilient Agriculture under Multiple Stressors              | D.01.04 Using EO to develop Digital Twin Components for the Earth System – PART 1                | Tuesday, 26 June, 14:00–15:30      | [Link](https://lps25.esa.int/programme/programme-session/?id=3460492C-8DAD-4CCE-9446-275DCC9DFB5E)     |
+| Ghazaryan et al  | Earth Observation based Digital Twin for Resilient Agriculture under Multiple Stressors              | D.01.04 Using EO to develop Digital Twin Components for the Earth System – PART 1                | Tuesday, 24 June, 14:00–15:30      | [Link](https://lps25.esa.int/programme/programme-session/?id=3460492C-8DAD-4CCE-9446-275DCC9DFB5E)     |
 | Nendel et al     | The Synergistic Power of EO and Simulation Modelling for Evaluating Climate Adaptation in Agriculture | B.03.02 Monitoring and Measuring Climate Adaptation Using EO                                      | Wednesday, 25 June, 16:15- 17:30    | [Link](https://lps25.esa.int/programme/programme-session/?id=B8D42F96-C7F9-4D6B-8EB8-B87CC4D4EF0D)     |
 | Ghazaryan et al  | EOAgriTwin: Digital Twin for Agriculture under Multiple Stressors                                     | D.01.05 ESA DTE Digital Twin Components, Lead Development Actions                                | Thursday, 26 June, 16:15           | [Link](https://lps25.esa.int/programme/programme-session/?id=644DF59D-8C0D-42D9-99D2-4D62D65582E4)     |
 
 
+
+## 🗣️ Panel Discussions
+TBA
 
 
 ## 🧾 Posters
@@ -38,12 +41,12 @@ This page highlights presentations, posters, and demos contributed by ZALF resea
 
 ---
 
-## 🤝 Co-authored Contributions
+## 🤝 Co-authored and linked Contributions
 
 | Name           | Title | Program Link |
 |----------------|-------|--------------|
 | Schwarz et al  |User-integrated national scale drought modelling framework in Kenya     | F.02.01 Harnessing the Power of Remote Sensing for Research and development in Africa     | [Link]()     |
-| Croci et al   | –     | –     | **Program Link**: TBA  |
+| Croci et al   | Coupling Light Use Efficiency Model and Random Forest for Improved Crop Yield and Biomass Estimation Accuracy at Field and Regional Scales   | Session A.02.03 EO for Agriculture Under Pressure | **Program Link**: TBA  |
 
 ---
 
