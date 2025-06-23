@@ -14,7 +14,7 @@ This page highlights presentations, posters, and demos contributed by ZALF resea
 
 
 ## 🗣️ Panel Discussions
-TBA
+Panel discussion at D01.07 ESA Digital Twin Earth Mid-term Milestone
 
 
 ## 🧾 Posters
@@ -30,9 +30,9 @@ TBA
 
 ---
 
-## 💻 Booth Demo
+## 💻 Booth Demo 
 
-- **Title**: EOAgriTwin Demo  (Modules, functionalities and what if scenarios) 
+- **Title**: EOAgriTwin Demo  (Modules, functionalities and what if scenarios)  at the booth next door to DestinE/DTE
 - **Presenters**: Jonas Screier, Jamina Bondad (ZALF), Maximillan Schwarz (RSS)
 - **Date & Time**:  
   - Wednesday, 25 June (13:30–14:00 and 14:30–15:00)  
@@ -46,7 +46,7 @@ TBA
 | Name           | Title | Program Link |
 |----------------|-------|--------------|
 | Schwarz et al  |User-integrated national scale drought modelling framework in Kenya     | F.02.01 Harnessing the Power of Remote Sensing for Research and development in Africa     | [Link]()     |
-| Croci et al   | Coupling Light Use Efficiency Model and Random Forest for Improved Crop Yield and Biomass Estimation Accuracy at Field and Regional Scales   | Session A.02.03 EO for Agriculture Under Pressure | **Program Link**: TBA  |
+| Ragazzi et al   | Coupling Light Use Efficiency Model and Random Forest for Improved Crop Yield and Biomass Estimation Accuracy at Field and Regional Scales   | Session A.02.03 EO for Agriculture Under Pressure | **Program Link**: TBA  |
 
 ---
 
